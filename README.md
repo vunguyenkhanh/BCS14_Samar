@@ -1,4 +1,4 @@
-# Cyber Crypto
+# Samar
 
 This is the source code for the Samar exercise.
 
